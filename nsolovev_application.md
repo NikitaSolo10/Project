@@ -49,7 +49,7 @@ Freetrip
 Сервер работает с базой через Django ORM (Позволяет не писать SQL вручную)
 Фронтенд-фреймворк - Vue
 Фронтенд - HTML, CSS, JavaScript
-Картографический сервис - Leaflet.js
+Картографический сервис - Leaflet
 Среда разработки: Pycharm, VScode, Github
 Хостинг: Beget или Timeweb
 Хранилище: Yandex Object Storage или VK Object Storage
